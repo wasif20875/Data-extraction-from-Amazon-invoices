@@ -1,1 +1,9 @@
 Hello World, this is Wasif.
+amazonprintablesummaryscrapper.py is to be used on printable summaries downloaded from Amazon that are converted to text files-
+-using Adobe Acrobat DC selecting output as editable text images.
+sellers_address.py is to be used on invoices downloaded from Amazon that are converted to text files using the website https://pdftotext.com/
+
+Note:- To run these codes you must ofcourse put in the path of the folder you have your text files in and put in the output location at the end
+Note:- The naming of the files also matters here to index the entries. Naming convention for amazonprintablesummaryscrapper.py is invoice_01.txt
+and for sellers_address.py is invoice_1.txt ans so on with increasing nubmers (1,2,3,4,........)
+Disclaimer:- User's descretion is advised :-D
